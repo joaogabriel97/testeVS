@@ -1,0 +1,1 @@
+print('Resultado é:',4+4)
